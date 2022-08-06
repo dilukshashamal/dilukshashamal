@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/dilukshashamal) <br>
+
 <h1 align="center">Hi 👋, I'm Diluksha Shamal</h1>
 <p align="left">  </p>
 
