@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Diluksha Shamal</h1>
 <p align="left">  </p>
 
-- 🌱 I’m currently learning **Python , ReactJs**
+- 🌱 I’m currently learning **Python , ReactJs,AI/ML,Angular**
 
 - 💬 Ask me about **C,JAVA**
 
