@@ -19,9 +19,7 @@
 [![Diluksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilukshashamal)](https://github.com/dilukshashamal/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilukshashamal)](https://github.com/dilukshashamal/github-readme-stats)
 <br>
-![GitHub metrics](https://metrics.lecoq.io/dilukshashamal)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dilukshashamal)  
+![GitHub metrics](https://metrics.lecoq.io/dilukshashamal)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dilukshashamal)  
 
 
  
