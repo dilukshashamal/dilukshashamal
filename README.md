@@ -34,7 +34,7 @@ Here are some of the tools and technologies I frequently work with:
 
 ## 📈 My GitHub Stats
 
-![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=radical) <!-- Replace 'your-github-username' with your actual GitHub username -->
+![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 
@@ -51,7 +51,7 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 
 Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square) <!-- Replace 'your-github-username' with your actual GitHub username -->
+![Profile Views](https://komarev.com/ghpvc/?username=dilukshashamal&style=flat-square) 
 
 
 
