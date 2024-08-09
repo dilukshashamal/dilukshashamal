@@ -34,7 +34,7 @@ Here are some of the tools and technologies I frequently work with:
 
 ## 📈 My GitHub Stats
 
-![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=radical)
+![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=transparent)
 
 
 ## 📫 Contact Me
