@@ -34,20 +34,29 @@ Here are some of the tools and technologies I frequently work with:
 
 ## 📈 My GitHub Stats
 
+<div align="center">
+
 ![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=transparent)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dilukshashamal&theme=transparent)](https://git.io/streak-stats)
+
+</div>
+<br><be>
+
+![Kavindu's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilukshashamal&custom_title=Kavindu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=1E90FF&line=1E90FF&point=1E90FF&area_color=1E90FF&title_color=1E90FF&area=true)
 
 
 ## 📫 Contact Me
 
 - **LinkedIn**: [Kavindu Shamal](https://www.linkedin.com/in/dilukshashamal/)
-- **Email**: dilukshashamal2001@gmail.com
+- **Email**: kavindu.dshamal@gmail.com
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="AI gif" width="300">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </p>
 
 Thanks for visiting my profile!
