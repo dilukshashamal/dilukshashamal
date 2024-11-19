@@ -51,7 +51,7 @@
 
 ## 🌐 Let's Connect!
 
-- **LinkedIn**: [Kavindu Shamal](https://www.linkedin.com/in/dilukshashamal/)
+- **LinkedIn**: [Kavindu Shamal](https://www.linkedin.com/in/kavindushamal/)
 - **Email**: [kavindu.dshamal@gmail.com](mailto:kavindu.dshamal@gmail.com)
 
 Feel free to reach out if you'd like to discuss AI, potential collaborations, or anything tech-related!
