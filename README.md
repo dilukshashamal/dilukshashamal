@@ -39,8 +39,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=radical&include_all_commits=true" alt="Kavindu's GitHub Stats" width="400" height = "180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilukshashamal&theme=radical" width="400" height = "180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=radical&include_all_commits=true" alt="Diluksha's GitHub Stats"/>
 </p>
 
 <p align="center">
