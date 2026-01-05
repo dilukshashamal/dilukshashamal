@@ -37,18 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=radical&include_all_commits=true" alt="Diluksha's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilukshashamal&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
 ## 🌐 Let's Connect!
 
 - **LinkedIn**: [Kavindu Shamal](https://www.linkedin.com/in/kavindushamal/)
