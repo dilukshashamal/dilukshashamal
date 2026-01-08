@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%26+Full-Stack+Dev;Building+Agentic+Workflows;2%2B+Years+Professional+Exp.;Focusing+on+RAG+%26+LangGraph&font=JetBrains+Mono&center=true&width=600&height=50&color=9e4c98&vCenter=true&size=22&background=00000000" alt="Diluksha's Header" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%26+Full-Stack+Dev;Building+Agentic+Workflows;2%2B+Years+Professional+Exp.;Focusing+on+RAG+%26+LangGraph&font=JetBrains+Mono&center=true&width=600&height=50&color=79ff97&vCenter=true&size=22&background=00000000" alt="Diluksha's Header" />
   </a>
 
   <br/>
@@ -35,12 +35,12 @@
       
   <b>// AI & DATA CORE</b>
       <br/>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,opencv&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,aws,gcp,azure&theme=dark" />
       <br/><br/>
       
   <b>// WEB & SYSTEMS</b>
       <br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,go,ts,docker&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,docker&theme=dark" />
     </td>
 
   <td width="50%" valign="top">
@@ -70,27 +70,3 @@
 </table>
 
 <br/>
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dilukshashamal&theme=midnight-purple&hide_border=true" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukshashamal&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <p style="color: #666; font-size: 12px;">
-    Debugging reality, one agent at a time.
-  </p>
-</div>
