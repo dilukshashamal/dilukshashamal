@@ -1,55 +1,96 @@
-# 👋 Welcome to My GitHub Profile!
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-<!--   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600" alt="AI Researcher at Work"/> -->
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%26+Full-Stack+Dev;Building+Agentic+Workflows;2%2B+Years+Professional+Exp.;Focusing+on+RAG+%26+LangGraph&font=JetBrains+Mono&center=true&width=600&height=50&color=9e4c98&vCenter=true&size=22&background=00000000" alt="Diluksha's Header" />
+  </a>
 
----
+  <br/>
 
-### Hi there! I'm **Kavindu Shamal**, an AI Researcher passionate about exploring the intersections of **artificial intelligence** and **real-world impact**. Here, you'll find projects, research, and contributions that highlight my dedication to advancing the AI field.
+  <a href="https://www.linkedin.com/in/dilukshashamal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  <a href="https://github.com/dilukshashamal">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
 
----
+</div>
 
-## 🌌 About Me
+<br/>
 
-- 🎓 AI Enthusiast | **Innovator** | Problem-Solver
-- 🔍 Focus Areas: **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**, and **Explainable AI (XAI)**
-- 🚀 Always excited to collaborate and share knowledge with the AI community!
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">⚡ Engineering Philosophy</h3>
+      <p>
+        I am a <b>Full-Stack Developer turned AI Engineer</b>. Over the last 2+ years, I have moved from building standard web apps to engineering intelligent, agentic systems.
+      </p>
+      <p>
+        I specialize in <b>Generative AI</b>, <b>Orchestration (LangGraph)</b>, and scalable <b>SaaS Architectures</b>.
+      </p>
+      
+  <br/>
+      
+  <b>// AI & DATA CORE</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,opencv&theme=dark" />
+      <br/><br/>
+      
+  <b>// WEB & SYSTEMS</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,go,ts,docker&theme=dark" />
+    </td>
 
----
+  <td width="50%" valign="top">
+      <h3 align="left">🚀 Flagship Work</h3>
+      
+  <a href="https://github.com/dilukshashamal">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRwYnl4Z254a3Z3NWJ5YjF4Z254a3Z3NWJ5YjF4Z254a3Z3NWJ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" style="border-radius: 8px; border: 1px solid #333;" alt="kAIro AI Preview" />
+      </a>
+      <blockquote>
+        <b>🎨 kAIro AI</b><br/>
+        Generative AI tool for brand image creation.<br/>
+        <i>Tech: Python, Diffusion Models, React.</i>
+      </blockquote>
+      
+  <br/>
 
-## 🛠️ Tech Stack
+  <a href="https://github.com/dilukshashamal">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTN5YjF4Z254a3Z3NWJ5YjF4Z254a3Z3NWJ5YjF4Z254a3Z3NWJ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 8px; border: 1px solid #333;" alt="PitchLens Preview" />
+      </a>
+      <blockquote>
+        <b>PitchLens Engine</b><br/>
+        Marketing copy analysis & rewriting agent.<br/>
+        <i>Tech: NLP, LangGraph, Next.js.</i>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-</p>
+<br/>
 
----
+<h3 align="center">📊 GitHub Analytics</h3>
 
-## 🌐 Let's Connect!
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dilukshashamal&show_icons=true&theme=midnight-purple&hide_border=true" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dilukshashamal&theme=midnight-purple&hide_border=true" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukshashamal&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+  </a>
+</div>
 
-- **LinkedIn**: [Kavindu Shamal](https://www.linkedin.com/in/kavindushamal/)
-- **Email**: [kavindu.dshamal@gmail.com](mailto:kavindu.dshamal@gmail.com)
-
-Feel free to reach out if you'd like to discuss AI, potential collaborations, or anything tech-related!
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilukshashamal&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-Thanks for visiting my profile! 🚀 Let's unlock the future of AI together.
+<div align="center">
+  <br/>
+  <p style="color: #666; font-size: 12px;">
+    Debugging reality, one agent at a time.
+  </p>
+</div>
