@@ -25,7 +25,7 @@
     <td width="50%" valign="top">
       <h3 align="left">⚡ Engineering Philosophy</h3>
       <p>
-        I am a <b>Full-Stack Developer turned AI Engineer</b>. Over the last 2+ years, I have moved from building standard web apps to engineering intelligent, agentic systems.
+        I am a <b>Software Engineer</b>. Over the last 2+ years, I have moved from building standard web apps to engineering intelligent, agentic systems.
       </p>
       <p>
         I specialize in <b>Generative AI</b>, <b>Orchestration (LangGraph)</b>, and scalable <b>SaaS Architectures</b>.
